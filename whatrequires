@@ -1,9 +1,5 @@
 # This file contains recursive sources that require this package
-R-DistributionUtils
-R-GeneralizedHyperbolic
-R-NMF
 R-doMC
-R-doParallel
-R-doRNG
-R-fitdistrplus
 R-rngtools
+R-svUnit
+R-yaml
