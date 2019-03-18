@@ -1,5 +1,7 @@
 # This file contains recursive sources that require this package
+R-RProtoBuf
 R-doMC
+R-pls
 R-rngtools
 R-svUnit
 R-yaml
