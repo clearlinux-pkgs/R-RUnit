@@ -7,7 +7,7 @@
 #
 Name     : R-RUnit
 Version  : 0.4.33
-Release  : 49
+Release  : 50
 URL      : https://cran.r-project.org/src/contrib/RUnit_0.4.33.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RUnit_0.4.33.tar.gz
 Summary  : R Unit Test Framework
